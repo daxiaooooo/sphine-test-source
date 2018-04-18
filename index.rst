@@ -12,7 +12,11 @@ Welcome to demo's documentation!
 
    introduction.rst
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
 
+   exercise.rst
 
 Indices and tables
 ==================
