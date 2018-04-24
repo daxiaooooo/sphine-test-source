@@ -3,8 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to demo's documentation!
+Sphinx说明文档
 ================================
+
+:Author: Daxiao
+:Time: 4/24/2018
 
 .. toctree::
    :maxdepth: 2
