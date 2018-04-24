@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'demo'
+project = 'Sphinx帮助文档'
 copyright = '2018, daxiao'
 author = 'daxiao'
 
