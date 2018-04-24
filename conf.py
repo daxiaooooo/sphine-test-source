@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = u'Sphinx帮助文档'
+project = u'reStructuredText帮助文档'
 copyright = '2018, daxiao'
 author = 'daxiao'
 
