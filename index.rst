@@ -8,15 +8,10 @@ Welcome to demo's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: 第四部分:
 
-   introduction.rst
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   exercise.rst
+   sections.rst
+   explicit-markup.rst
 
 Indices and tables
 ==================
