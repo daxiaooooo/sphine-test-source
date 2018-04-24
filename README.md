@@ -1,3 +1,2 @@
 # sphinx帮助文档
-章节（Sections）
-直解标记（Explicit Markup）
+这是关于sphinx语法章节（Sections）和直解标记（Explicit Markup）的简要介绍
