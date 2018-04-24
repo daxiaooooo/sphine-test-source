@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Sphinx说明文档
+reStructuredText说明文档
 ================================
 
 :Author: Daxiao
